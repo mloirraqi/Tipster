@@ -19,12 +19,12 @@ The following **optional** features are implemented:
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-* [X] Implemented a way to split the bill amongst individuals evenly.
-* [X] Insert a Loading Screen.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [X] Implemented a way to split the bill amongst individuals evenly.
+* [X] Insert a Loading Screen.
+* [X] Modified color Scheme
 
 ## Video Walkthrough
 
@@ -42,17 +42,17 @@ My biggest challenge was trying to get multiple images to load in the main menu 
 
 Loading Screen Image - https://images-na.ssl-images-amazon.com/images/I/51mziX6slwL._SY355_.png
 
-Two People Image - https://www.google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
+Two People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
 
-Three People Image - https://www.google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
+Three People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
 
-Four People Image - https://www.google.com/https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
+Four People Image - https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Mohamed Loirraqi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
