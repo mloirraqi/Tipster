@@ -20,6 +20,7 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 * [X] Implemented a way to split the bill amongst individuals evenly.
+* [X] Insert a Loading Screen.
 
 The following **additional** features are implemented:
 
@@ -40,9 +41,12 @@ My biggest challenge was trying to get multiple images to load in the main menu 
 ## Credits
 
 Loading Screen Image - https://images-na.ssl-images-amazon.com/images/I/51mziX6slwL._SY355_.png
-Two People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
-Three People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
-Four People Image - https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
+
+Two People Image - https://google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
+
+Three People Image - https://google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
+
+Four People Image - https://google.com/https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
