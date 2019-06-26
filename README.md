@@ -42,11 +42,11 @@ My biggest challenge was trying to get multiple images to load in the main menu 
 
 Loading Screen Image - https://images-na.ssl-images-amazon.com/images/I/51mziX6slwL._SY355_.png
 
-Two People Image - https://google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
+Two People Image - https://www.google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
 
-Three People Image - https://google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
+Three People Image - https://www.google.com/https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
 
-Four People Image - https://google.com/https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
+Four People Image - https://www.google.com/https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
