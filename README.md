@@ -35,11 +35,14 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was trying to get multiple images to load in the main menu loading screen as well as figuring out how to properly scale my animated field. It also took me a little bit of time to figure out how to implement a way to evenly split the bill amonst 2,3 or 4 people, however, I'm impressed by the end result. Tinkering around with this field, I could see how one could implement different ways to split the bill based on user input.
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
+Loading Screen Image - https://images-na.ssl-images-amazon.com/images/I/51mziX6slwL._SY355_.png
+Two People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-38-512.png
+Three People Image - https://cdn0.iconfinder.com/data/icons/social-media-glyph-1/64/Facebook_Social_Media_User_Interface-39-512.png
+Four People Image - https://cdn2.iconfinder.com/data/icons/cloud-glyph/64/user_people_four-512.png
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
