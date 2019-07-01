@@ -11,7 +11,6 @@
 		EACAE41D22C2C175003AA4C1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EACAE41C22C2C175003AA4C1 /* ViewController.m */; };
 		EACAE42022C2C175003AA4C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EACAE41E22C2C175003AA4C1 /* Main.storyboard */; };
 		EACAE42222C2C176003AA4C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EACAE42122C2C176003AA4C1 /* Assets.xcassets */; };
-		EACAE42522C2C176003AA4C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EACAE42322C2C176003AA4C1 /* LaunchScreen.storyboard */; };
 		EACAE42822C2C176003AA4C1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EACAE42722C2C176003AA4C1 /* main.m */; };
 		EACAE43222C2C176003AA4C1 /* TipsterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EACAE43122C2C176003AA4C1 /* TipsterTests.m */; };
 		EACAE43D22C2C176003AA4C1 /* TipsterUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EACAE43C22C2C176003AA4C1 /* TipsterUITests.m */; };
@@ -42,7 +41,6 @@
 		EACAE41C22C2C175003AA4C1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		EACAE41F22C2C175003AA4C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EACAE42122C2C176003AA4C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EACAE42422C2C176003AA4C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EACAE42622C2C176003AA4C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EACAE42722C2C176003AA4C1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EACAE42D22C2C176003AA4C1 /* TipsterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipsterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,7 +105,6 @@
 				EACAE41C22C2C175003AA4C1 /* ViewController.m */,
 				EACAE41E22C2C175003AA4C1 /* Main.storyboard */,
 				EACAE42122C2C176003AA4C1 /* Assets.xcassets */,
-				EACAE42322C2C176003AA4C1 /* LaunchScreen.storyboard */,
 				EACAE42622C2C176003AA4C1 /* Info.plist */,
 				EACAE42722C2C176003AA4C1 /* main.m */,
 			);
@@ -235,7 +232,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EACAE42522C2C176003AA4C1 /* LaunchScreen.storyboard in Resources */,
 				EACAE42222C2C176003AA4C1 /* Assets.xcassets in Resources */,
 				EACAE42022C2C175003AA4C1 /* Main.storyboard in Resources */,
 			);
@@ -306,14 +302,6 @@
 				EACAE41F22C2C175003AA4C1 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		EACAE42322C2C176003AA4C1 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EACAE42422C2C176003AA4C1 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -436,6 +424,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GBM98UU555;
 				INFOPLIST_FILE = Tipster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GBM98UU555;
 				INFOPLIST_FILE = Tipster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
